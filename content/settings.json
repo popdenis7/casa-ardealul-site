@@ -1,14 +1,93 @@
 {
-  "business_name": "Casa Ardealul",
+  "footer_services": "Terasă · La pachet · Servire la masă",
+  "ambiance_paragraphs": [
+    "O atmosferă relaxată, intimă și liniștită — la fel de potrivită pentru o cafea de dimineață, cât și pentru o cină lungă între prieteni sau un grup de turiști ajunși în Maramureș.",
+    "Sala de mese privată rămâne disponibilă pentru cine caută liniște, iar terasa e deschisă nonstop pentru cine nu vrea să se grăbească."
+  ],
+  "footer_tagline_line1": "Terasă · Sală de mese privată",
+  "footer_tagline_line2": "Cocktailuri excelente",
   "eyebrow": "Sighetu Marmației · Maramureș",
+  "info_rows": [
+    {
+      "k": "Servicii",
+      "v": "Terasă, la pachet, servire la masă"
+    },
+    {
+      "k": "Plăți",
+      "v": "Card credit, card debit, NFC"
+    },
+    {
+      "k": "Parcare",
+      "v": "Loc gratuit + parcare gratuită pe stradă"
+    },
+    {
+      "k": "Copii",
+      "v": "Loc potrivit pentru copii"
+    },
+    {
+      "k": "Program",
+      "v": "Nonstop"
+    }
+  ],
+  "business_name": "Casa Ardealul Test",
+  "phone": "+40000000000",
+  "hours": "Deschis nonstop",
   "hero_title_line1": "O masă",
   "hero_title_line2": "întinsă la umbra",
+  "gallery": [
+    {
+      "caption": "Sala de mese privată",
+      "image": ""
+    },
+    {
+      "caption": "Cocktailuri & vinuri",
+      "image": ""
+    }
+  ],
+  "moments": [
+    {
+      "title": "Mic dejun",
+      "desc": "Cafea excelentă și un început liniștit de zi, pe terasă.",
+      "image": ""
+    },
+    {
+      "title": "Prânz",
+      "desc": "Servire la masă, potrivită și pentru grupuri de turiști.",
+      "image": ""
+    },
+    {
+      "title": "Cină",
+      "desc": "Cocktailuri excelente, atmosferă intimă și liniștită.",
+      "image": ""
+    },
+    {
+      "title": "Desert",
+      "desc": "Deserturi excelente, potrivite și pentru o masă solitară.",
+      "image": ""
+    }
+  ],
   "hero_title_em": "Ardealului",
-  "hero_sub": "Terasă, sală de mese privată și un bar care nu se grăbește niciodată. Cafea, cocktailuri, vinuri și deserturi făcute cu răbdare — de dimineață și până noaptea târziu.",
   "address": "Strada Pandurilor 1, 435500 Sighetu Marmației",
-  "hours": "Deschis nonstop",
-  "phone": "+40000000000",
   "hero_image": "",
+  "ambiance_tags": [
+    "Grupuri",
+    "Turiști",
+    "Potrivit pentru copii",
+    "Cinat singur",
+    "Acceptă rezervări"
+  ],
+  "offers": [
+    "Alcool",
+    "Aperitive",
+    "Băuturi tari",
+    "Bere",
+    "Cafea",
+    "Cocktailuri",
+    "Gustări rapide",
+    "Sală de mese privată",
+    "Vinuri"
+  ],
+  "hero_sub": "Terasă, sală de mese privată și un bar care nu se grăbește niciodată. Cafea, cocktailuri, vinuri și deserturi făcute cu răbdare — de dimineață și până noaptea târziu.",
   "highlights": [
     "Cafea excelentă",
     "Cocktailuri excelente",
@@ -16,31 +95,5 @@
     "Listă de vinuri excelentă",
     "Ofertă de bere excelentă",
     "Sală de mese privată"
-  ],
-  "moments": [
-    { "title": "Mic dejun", "desc": "Cafea excelentă și un început liniștit de zi, pe terasă.", "image": "" },
-    { "title": "Prânz", "desc": "Servire la masă, potrivită și pentru grupuri de turiști.", "image": "" },
-    { "title": "Cină", "desc": "Cocktailuri excelente, atmosferă intimă și liniștită.", "image": "" },
-    { "title": "Desert", "desc": "Deserturi excelente, potrivite și pentru o masă solitară.", "image": "" }
-  ],
-  "ambiance_paragraphs": [
-    "O atmosferă relaxată, intimă și liniștită — la fel de potrivită pentru o cafea de dimineață, cât și pentru o cină lungă între prieteni sau un grup de turiști ajunși în Maramureș.",
-    "Sala de mese privată rămâne disponibilă pentru cine caută liniște, iar terasa e deschisă nonstop pentru cine nu vrea să se grăbească."
-  ],
-  "ambiance_tags": ["Grupuri", "Turiști", "Potrivit pentru copii", "Cinat singur", "Acceptă rezervări"],
-  "info_rows": [
-    { "k": "Servicii", "v": "Terasă, la pachet, servire la masă" },
-    { "k": "Plăți", "v": "Card credit, card debit, NFC" },
-    { "k": "Parcare", "v": "Loc gratuit + parcare gratuită pe stradă" },
-    { "k": "Copii", "v": "Loc potrivit pentru copii" },
-    { "k": "Program", "v": "Nonstop" }
-  ],
-  "offers": ["Alcool", "Aperitive", "Băuturi tari", "Bere", "Cafea", "Cocktailuri", "Gustări rapide", "Sală de mese privată", "Vinuri"],
-  "gallery": [
-    { "caption": "Sala de mese privată", "image": "" },
-    { "caption": "Cocktailuri & vinuri", "image": "" }
-  ],
-  "footer_tagline_line1": "Terasă · Sală de mese privată",
-  "footer_tagline_line2": "Cocktailuri excelente",
-  "footer_services": "Terasă · La pachet · Servire la masă"
+  ]
 }
